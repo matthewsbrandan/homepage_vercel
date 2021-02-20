@@ -15,9 +15,9 @@ UI Clone RocketSeat.
 - keyframes interpolation (ease-in | ease-out | ease-in-out) velocidade da animação, se começa mais rápido/lento e termina mais rápido/lento
 
 - gradient-text:
-    background-image: linear-gradient(90deg,#007cf0,#00dfd8);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    - background-image: linear-gradient(90deg,#007cf0,#00dfd8);
+    - -webkit-background-clip: text;
+    - -webkit-text-fill-color: transparent;
 
 ## FEATURE
-[ ] Responsividade
+[] Responsividade
